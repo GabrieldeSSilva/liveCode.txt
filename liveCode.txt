@@ -1,0 +1,6 @@
+- git init
+    Cria um repositorio git local
+
+-it checkout
+    Muda de branches ou da um restore repositorio atual
+    
